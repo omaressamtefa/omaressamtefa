@@ -3,7 +3,7 @@
   <h3>A Passionate Frontend Developer Transitioning to Full-Stack from Egypt</h3>
   <img src="https://komarev.com/ghpvc/?username=omaressamtefa&label=Profile%20Views&color=0e75b6&style=flat" alt="omaressamtefa" />
   <br>
-  <a href="[https://portfolio-gxa7.vercel.app/home](https://portfolio-lime-eight-84.vercel.app/home)">
+  <a href="https://portfolio-lime-eight-84.vercel.app/home">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1e40af?style=flat-square&logo=google-chrome" alt="Portfolio" />
   </a>
 </div>
@@ -78,7 +78,7 @@ I’m a Computer Science student and a dedicated Frontend Developer with a stron
 #### Portfolio Website
 - A personal portfolio showcasing my projects, built with Angular, TypeScript, and Tailwind CSS.  
 - Implemented lazy loading, SEO best practices, and smooth animations, reducing page load time by 15%.  
-- [Live Demo]([https://portfolio-gxa7.vercel.app/home](https://portfolio-lime-eight-84.vercel.app/home)) | [GitHub](https://github.com/omaressamtefa/portfolio)
+- [Live Demo](https://portfolio-lime-eight-84.vercel.app/home) | [GitHub](https://github.com/omaressamtefa/portfolio)
 
 #### Bookmark App
 - A bookmark management app with CRUD operations, category filtering, and drag-and-drop functionality.  
