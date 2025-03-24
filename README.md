@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=omaressamtefa&label=Profile%20Views&color=0e75b6&style=flat" alt="omaressamtefa" />
   <br>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1e40af?style=flat-square&logo=google-chrome" alt="Portfolio" />
+    <img src="[https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1e40af?style=flat-square&logo=google-chrome](https://portfolio-gxa7.vercel.app/home)" alt="Portfolio" />
   </a>
 </div>
 
@@ -41,12 +41,8 @@ I’m a Computer Science student and a dedicated Frontend Developer with a stron
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  </a>
+ 
+
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
