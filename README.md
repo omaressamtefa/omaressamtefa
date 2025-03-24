@@ -3,8 +3,8 @@
   <h3>A Passionate Frontend Developer Transitioning to Full-Stack from Egypt</h3>
   <img src="https://komarev.com/ghpvc/?username=omaressamtefa&label=Profile%20Views&color=0e75b6&style=flat" alt="omaressamtefa" />
   <br>
-  <a href="https://your-portfolio-link.com">
-    <img src="[https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1e40af?style=flat-square&logo=google-chrome](https://portfolio-gxa7.vercel.app/home)" alt="Portfolio" />
+  <a href="[https://your-portfolio-link.com](https://portfolio-gxa7.vercel.app/home)">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1e40af?style=flat-square&logo=google-chrome" alt="Portfolio" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@ I’m a Computer Science student and a dedicated Frontend Developer with a stron
 
 - 🔭 I recently completed my **[E-Commerce Platform](https://e-commerce-beta-ten-86.vercel.app/)**, built with Angular, Firebase, and Tailwind CSS.  
 - 🌱 I’m currently learning **.NET** to become a Full-Stack Developer and advance my backend skills.  
-- 💬 Ask me about **Angular, React, TypeScript, JavaScript, Tailwind CSS, Firebase, and UI/UX Design**.  
+- 💬 Ask me about **Angular, TypeScript, JavaScript, Tailwind CSS, Firebase, and UI/UX Design**.  
 - 📫 Reach me at **omaressamtefa@gmail.com**.  
 - ⚡ Fun Fact: I’m a coding enthusiast who enjoys solving challenges and creating pixel-perfect designs in my free time!
 
@@ -28,9 +28,6 @@ I’m a Computer Science student and a dedicated Frontend Developer with a stron
   </a>
   <a href="https://fb.com/omar essam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/omar_essam335" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
 
@@ -61,9 +58,7 @@ I’m a Computer Science student and a dedicated Frontend Developer with a stron
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -73,19 +68,19 @@ I’m a Computer Science student and a dedicated Frontend Developer with a stron
 
 ### 🚀 Featured Projects
 #### E-Commerce Platform
-- A fully responsive e-commerce platform built with Angular, Firebase, and Tailwind CSS.  
+- A fully responsive e-commerce platform built with Angular, and Tailwind CSS.  
 - Features user authentication, product filtering, and payment gateway integration for secure transactions.  
 - [Live Demo](https://e-commerce-beta-ten-86.vercel.app/) | [GitHub](https://github.com/omaressamtefa/e-commerce)
 
 #### Portfolio Website
 - A personal portfolio showcasing my projects, built with Angular, TypeScript, and Tailwind CSS.  
 - Implemented lazy loading, SEO best practices, and smooth animations, reducing page load time by 15%.  
-- [Live Demo](insert-live-demo-link) | [GitHub](https://github.com/omaressamtefa/portfolio)
+- [Live Demo]([insert-live-demo-link](https://portfolio-gxa7.vercel.app/home)) | [GitHub](https://github.com/omaressamtefa/portfolio)
 
 #### Bookmark App
 - A bookmark management app with CRUD operations, category filtering, and drag-and-drop functionality.  
 - Built using JavaScript, HTML, CSS, and Local Storage for persistent data storage.  
-- [Live Demo](insert-live-demo-link) | [GitHub](https://github.com/omaressamtefa/bookmark-app)
+- [Live Demo]([insert-live-demo-link](https://bookmark-beta-jet.vercel.app/)) | [GitHub](https://github.com/omaressamtefa/bookmark-app)
 
 #### Game API App
 - A game information app that fetches and displays game details using an external API.  
