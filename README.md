@@ -1,19 +1,23 @@
 <div align="center">
   <h1>👋 Hi, I’m Omar Essam</h1>
-  <h3>A Passionate Frontend Developer from Egypt</h3>
+  <h3>A Passionate Frontend Developer Transitioning to Full-Stack from Egypt</h3>
   <img src="https://komarev.com/ghpvc/?username=omaressamtefa&label=Profile%20Views&color=0e75b6&style=flat" alt="omaressamtefa" />
+  <br>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1e40af?style=flat-square&logo=google-chrome" alt="Portfolio" />
+  </a>
 </div>
 
 ---
 
 ### 🌟 About Me
-I’m a Computer Science student and a dedicated Frontend Developer with a passion for crafting responsive, user-friendly web applications. I specialize in modern JavaScript frameworks like Angular and React, and I’m skilled in creating seamless UI/UX experiences using tools like Tailwind CSS and SCSS. I’m always eager to learn new technologies, contribute to open-source projects, and collaborate on innovative ideas.
+I’m a Computer Science student and a dedicated Frontend Developer with a strong foundation in building responsive, user-centric web applications. I specialize in modern JavaScript frameworks like Angular and React, and I’m skilled in creating seamless UI/UX experiences with tools like Tailwind CSS, SCSS, and Firebase. Currently, I’m expanding my expertise into full-stack development by learning .NET, aiming to build robust, end-to-end solutions. I’m passionate about coding, problem-solving, and contributing to innovative projects that make an impact.
 
-- 🔭 I’m currently working on an **[E-commerce Platform](https://e-commerce-beta-ten-86.vercel.app/)** to enhance my skills in React and Firebase.  
-- 🌱 I’m learning advanced state management with Redux and exploring Next.js for server-side rendering.  
-- 💬 Ask me about **Angular, React, TypeScript, JavaScript, Tailwind CSS, and UI/UX Design**.  
+- 🔭 I recently completed my **[E-Commerce Platform](https://e-commerce-beta-ten-86.vercel.app/)**, built with Angular, Firebase, and Tailwind CSS.  
+- 🌱 I’m currently learning **.NET** to become a Full-Stack Developer and advance my backend skills.  
+- 💬 Ask me about **Angular, React, TypeScript, JavaScript, Tailwind CSS, Firebase, and UI/UX Design**.  
 - 📫 Reach me at **omaressamtefa@gmail.com**.  
-- ⚡ Fun fact: I love solving coding challenges and have a knack for creating pixel-perfect designs!
+- ⚡ Fun Fact: I’m a coding enthusiast who enjoys solving challenges and creating pixel-perfect designs in my free time!
 
 ---
 
@@ -39,6 +43,9 @@ I’m a Computer Science student and a dedicated Frontend Developer with a passi
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -70,37 +77,56 @@ I’m a Computer Science student and a dedicated Frontend Developer with a passi
 
 ### 🚀 Featured Projects
 #### E-Commerce Platform
-- A fully responsive e-commerce website built with React, Firebase, and Tailwind CSS.  
-- Features include user authentication, product filtering, and payment gateway integration.  
+- A fully responsive e-commerce platform built with Angular, Firebase, and Tailwind CSS.  
+- Features user authentication, product filtering, and payment gateway integration for secure transactions.  
 - [Live Demo](https://e-commerce-beta-ten-86.vercel.app/) | [GitHub](https://github.com/omaressamtefa/e-commerce)
 
 #### Portfolio Website
 - A personal portfolio showcasing my projects, built with Angular, TypeScript, and Tailwind CSS.  
-- Implemented lazy loading, SEO best practices, and smooth animations for an optimal user experience.  
+- Implemented lazy loading, SEO best practices, and smooth animations, reducing page load time by 15%.  
 - [Live Demo](insert-live-demo-link) | [GitHub](https://github.com/omaressamtefa/portfolio)
 
 #### Bookmark App
 - A bookmark management app with CRUD operations, category filtering, and drag-and-drop functionality.  
-- Built using JavaScript, HTML, CSS, and Local Storage for persistent data.  
+- Built using JavaScript, HTML, CSS, and Local Storage for persistent data storage.  
 - [Live Demo](insert-live-demo-link) | [GitHub](https://github.com/omaressamtefa/bookmark-app)
+
+#### Game API App
+- A game information app that fetches and displays game details using an external API.  
+- Built with JavaScript, HTML, and CSS, ensuring mobile responsiveness and a clean UI.  
+- [GitHub](https://github.com/omaressamtefa/game-api)
+
+---
+
+### 🏆 Certifications
+- **Route Frontend Angular Course** – Route Academy  
+- **CCNA Course** – MASA  
+- **C++ Problem Solving** – Coach Academy  
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaressamtefa&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaressamtefa&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaressamtefa&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏅 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omaressamtefa&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 🤝 Let’s Collaborate!
-I’m always open to collaborating on exciting projects, contributing to open-source, or discussing frontend development ideas. Feel free to reach out via email or connect with me on LinkedIn!
+### 🌍 Contributions
+I’m passionate about contributing to the tech community! I’m actively looking to collaborate on open-source projects, particularly those involving frontend or full-stack development with Angular, React, or .NET. If you have a project in mind, let’s connect!
+
+---
+
+### 🤝 Let’s Work Together!
+I’m open to collaborating on innovative projects, contributing to open-source, or discussing opportunities in frontend and full-stack development. Whether you’re a recruiter looking for a passionate developer or a fellow coder with a cool idea, feel free to reach out via email or LinkedIn!
